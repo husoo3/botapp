@@ -1,0 +1,27 @@
+{
+  "token": "MTIwMjI5MzQ1NzcyMTIyOTQxMw.Gp0nyd.00pEzZFC6PHGflCHcwlcO0-J-HA110LnCjI0Uc",
+  "username": "huso",
+  "password": "huso",
+  "port": "3000",
+  "clientId": "1202293457721229413",
+  "guildId": "1201570001782571018",
+  "globalDeploy": false,
+  "status": "Made By HÜSEYİN🔥",
+  "website": "https://youtube.com/ScienceGearYT",
+  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
+  "footer": "Made By HÜSEYİN🔥",
+  "genChannel": "1201570001782571018",
+  "premiumChannel": "1202298689318826034",
+  "genCooldown": "5",
+  "premiumCooldown": "3",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
